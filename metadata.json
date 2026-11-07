@@ -1,0 +1,6 @@
+{
+  "name": "Child Routine Timer",
+  "description": "Elastic backward-scheduling visual routine tracker for children and families with real-time multi-device sync",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

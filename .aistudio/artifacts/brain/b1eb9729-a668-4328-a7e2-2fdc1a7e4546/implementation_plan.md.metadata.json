@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to streamline the Dashboard and Run Mode interfaces to reduce clutter, correct bonus time and preserved remaining time when unmarking completed tasks, and add a dedicated Task Catalog view with routine integration.",
+  "updatedAt":  "2026-11-01T14:13:00.216951675Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
